@@ -331,6 +331,7 @@ Signed,
 1. Eva Lauren Kelly (web & console homebrew developer, aka thejsa)
 1. Evan Brown
 1. Evangelos Paterakis
+1. Evgeni Golov (Debian Developer)
 1. Ewen McNeill
 1. Ezekiel Hendrickson
 1. Fabio Di Peri
@@ -362,7 +363,6 @@ Signed,
 1. Geir Magnusson Jr.
 1. Geoffrey Thomas
 1. George Chriss
-1. Georgiana Dolocan
 1. Gerardo Torres
 1. Gerard Ryan
 1. Germán Poo-Caamaño (GNOME)
@@ -420,7 +420,6 @@ Signed,
 1. James 'jspc' Condron
 1. James Kruth
 1. James Renken
-1. James Smith
 1. James Spivey
 1. James Troup
 1. James Turnbull (former President of Linux Australia)
